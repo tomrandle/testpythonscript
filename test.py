@@ -1,0 +1,3 @@
+# testpythonscript
+
+print "sausage"
